@@ -94,3 +94,7 @@ I built this with Claude Code (Opus 5.5). I asked for the most realistic water i
 | `server.mjs` | Tiny static server for development |
 | `build.mjs` | Builds `ocean.html` and `ocean.min.html` |
 | `docs/` | README images |
+
+## License
+
+MIT. See [LICENSE](LICENSE).
