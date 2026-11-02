@@ -6,8 +6,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "node api.js && node server.mjs",
-    "build": "node api.js && node build.mjs"
+    "start": "node init && node server.mjs",
+    "build": "node init && node build.mjs"
   },
   "devDependencies": {
     "esbuild": "^0.25.0"

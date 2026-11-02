@@ -6,9 +6,9 @@ shots/
 # OS and editor files
 .DS_Store
 Thumbs.db
-.vscode/
 .idea/
 *.log
 branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
+config.bat
